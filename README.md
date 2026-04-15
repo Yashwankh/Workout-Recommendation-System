@@ -86,7 +86,7 @@ Workout-Recommendation-System
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/Workout-Recommendation-System.git  
+git clone  https://github.com/Yashwankh/Workout-Recommendation-System.git  
 
 2. Navigate to project folder:
 
