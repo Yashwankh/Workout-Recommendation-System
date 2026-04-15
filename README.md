@@ -153,7 +153,7 @@ These skills are relevant for roles in Data Science, Machine Learning, and Softw
 
 # Author
 
-Your Name  
+Yash Wankhede
 B.Tech Computer Science Engineering  
 
 GitHub:
